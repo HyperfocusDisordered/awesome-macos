@@ -190,7 +190,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon] ![Star][fav]
 
 ### Clipboard Managers
-
+- [ClipboardX](https://apps.apple.com/ru/app/clipboardx-paste-like-a-pro/id6738006184?l=en-GB&mt=12) - Ergonomic Clipboard manager, Screen recorder, Drag-n-drop zone for macOS. ![Dollar][mon]
 - [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. ![Dollar][mon]
 - [Maccy](https://maccy.app/) - Keep your copy history at hand. Period. ![Open Source][oss]
 - [Yippy](https://yippy.mattdavo.com/) - An open source clipboard manager for macOS. ![Open Source][oss]
